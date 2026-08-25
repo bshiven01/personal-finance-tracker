@@ -1,8 +1,6 @@
-# Personal Finance Tracker (Excel Template)
+# Personal Finance Tracker (Google Sheets Template)
 
-A minimal, spreadsheet-native personal finance tracker: transactions, net
-worth, category budgets, a Needs/Wants/Savings split, and shared-expense
-(reimbursement) tracking — with an optional Plaid bank-sync backend.
+A free, open-source Google Sheets personal finance tracker for anyone who wants a barebones budget spreadsheet without a subscription app. Import one file and get transaction logging, a net worth tracker, category budgets, a Needs/Wants/Savings split, and shared-expense (reimbursement) tracking — all spreadsheet-native, no add-ons required. An optional Plaid bank-sync integration (via Google Apps Script) can automatically pull in real transactions and balances if you want it, but the template works entirely standalone with manual entry or a pasted bank CSV export.
 
 ## What's in this repo
 
