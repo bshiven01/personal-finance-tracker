@@ -1,4 +1,4 @@
-# Personal Finance Tracker (Google Sheets template)
+# Personal Finance Tracker (Excel Template)
 
 A minimal, spreadsheet-native personal finance tracker: transactions, net
 worth, category budgets, a Needs/Wants/Savings split, and shared-expense
@@ -9,6 +9,7 @@ worth, category budgets, a Needs/Wants/Savings split, and shared-expense
 ```
 Personal_Finance_Tracker_Template.xlsx   # the workbook — import this into Google Sheets
 AppsScript/Code.gs                       # optional: Plaid bank-sync backend
+LICENSE                                  # MIT License
 README.md                                # this file
 ```
 
@@ -16,7 +17,7 @@ All the example data (accounts, transactions, dollar amounts) is
 **illustrative** — generic placeholders, not real financial data. Replace it
 with your own after importing.
 
-## Quick start
+## Quick start 
 
 1. In Google Sheets: **File → Import → Upload**, choose
    `Personal_Finance_Tracker_Template.xlsx`, and select **"Replace
@@ -173,5 +174,4 @@ bank login.
 
 ## License
 
-Not included — add whatever license fits your use (MIT is a common
-default for templates like this).
+MIT - see `LICENSE`
